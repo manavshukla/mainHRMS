@@ -1,3 +1,6 @@
 [submodule "appSecurity"]
 	path = appSecurity
 	url = https://github.com/manavshukla/appSecurity.git
+[submodule "leaveManagement"]
+	path = leaveManagement
+	url = https://github.com/manavshukla/leaveManagement.git
