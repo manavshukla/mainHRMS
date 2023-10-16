@@ -1,0 +1,3 @@
+[submodule "appSecurity"]
+	path = appSecurity
+	url = https://github.com/manavshukla/appSecurity.git
